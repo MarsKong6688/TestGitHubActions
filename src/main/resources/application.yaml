@@ -1,0 +1,7 @@
+# Spring
+spring:
+  application:
+    name: test-github-actions
+
+server:
+  port: 8080
